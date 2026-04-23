@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.md text eol=lf
+
+# 한글 경로 보존
+core.precomposeunicode=true
+core.quotepath=false
